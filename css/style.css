@@ -139,3 +139,11 @@ a {
 .menu-item li {
   padding: 0.25rem 0;
 }
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  color: var(--color-text-muted);
+  border-top: 1px solid rgba(201, 162, 39, 0.2);
+  font-size: 0.9rem;
+}
